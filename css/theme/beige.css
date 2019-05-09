@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url('https://fonts.googleapis.com/css?family=Gugi|Open+Sans|Stylish|Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css?family=Kodchasan|Open+Sans|Stylish|Source+Code+Pro');
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -57,7 +57,7 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-    font-family: 'Gugi', cursive;
+    font-family: 'Kodchasan', cursive;
     font-size: 3.77em;
 }
 
